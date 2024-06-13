@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleSimplesDeSaque",
+            "request": "launch",
+            "mainClass": "ControleSimplesDeSaque",
+            "projectName": "dio-trilha-java_33d6cdf1"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "VerificacaoChequeEspecial",
+            "projectName": "dio-trilha-java_33d6cdf1"
+        },
+        {
+            "type": "java",
+            "name": "VerificarConta",
+            "request": "launch",
+            "mainClass": "VerificarConta",
+            "projectName": "dio-trilha-java_33d6cdf1"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "SimulacaoBancaria",
+            "projectName": "dio-trilha-java_33d6cdf1"
+        },
+        {
+            "type": "java",
+            "name": "SimuladorSaque",
+            "request": "launch",
+            "mainClass": "SimuladorSaque",
+            "projectName": "dio-trilha-java_33d6cdf1"
+        },
+        {
+            "type": "java",
             "name": "Conntador",
             "request": "launch",
             "mainClass": "Conntador",
